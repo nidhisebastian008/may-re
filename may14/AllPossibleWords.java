@@ -1,3 +1,6 @@
+https://www.geeksforgeeks.org/find-all-possible-interpretations/
+
+
 static int allWord(String str,String ans)
 	{
 		if(str.length()==0)
